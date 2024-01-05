@@ -1,3 +1,3 @@
-# TathyaOS
+# TutorialOS
 
-Currently following a tutorial to write this, however I will branch off from the tutorial once I'm done with the basics.
+Was following a tutorial to write this but wanted to write my own OS without just copy pasting code. Archived.
